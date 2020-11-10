@@ -2,7 +2,7 @@
 
 * Part 1: Please check the Test Report in the file: Hotel-Booking-Test-Report.xlsx
  
-* Part 2: [TestCafe[](https://devexpress.github.io/testcafe) - was used to automate the Create and Delete Bookings scenarios.
+* Part 2: [TestCafe](https://devexpress.github.io/testcafe) - was used to automate the Create and Delete Bookings scenarios.
 
 The Page Object Model was used to write the tests. Also given the nature of test scenarios identified in the Test Report a Data Driven approach was folowed to write the tests in TestCafe
 
